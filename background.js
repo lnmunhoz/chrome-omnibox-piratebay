@@ -1,6 +1,6 @@
 (function(){
-  'use strict'
-  
+  'use strict';
+
   chrome.omnibox.setDefaultSuggestion({
     description: '%s Search on Piratebay'
   });
